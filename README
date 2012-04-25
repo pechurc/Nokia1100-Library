@@ -1,0 +1,7 @@
+This is a Nokia 1100 display Library (PCF8814) for arduino
+
+It's based on the following proyects/libraries:
+http://www.sunbizhosting.com/~spiral/1100/
+https://github.com/adafruit/Adafruit-GFX-Library
+https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
+http://www.freeduino.de/blog/nokia-1100-lcd-display
